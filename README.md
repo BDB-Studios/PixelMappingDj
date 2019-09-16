@@ -15,4 +15,13 @@ Simply download folder for your OS from Builds:
 Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public.
 
 ## DONATE TO HELP DEVELOP PixelMappingDj FOR FREE
+
+**EUR**
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AT9XKRYMPZUHL&source=url)
+
+**USD**
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FBAYTNL2Z64QE&source=url)
+
+**CZK**
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A4G7WAQR86QEQ&source=url)
+
