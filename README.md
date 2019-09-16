@@ -33,13 +33,15 @@ Donate in **CZK**: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_dona
 
 [![screenshot](screenshot_v23.jpg)](screenshot_v23.jpg)
 
-## FEATURES
-Create and save custom light fixtures - support for RGB, W, RGBW, RGBWWW
-Control video speed - from 0.5 to 2.0* speed
-Control video color temperature
-Disable GUI to boost performance
-Flip video
-IP unicast
-set custom DMX addresse
+
+FEATURES |
+------------ |
+Control video speed - from 0.5 to 2.0* speed |
+Control video color temperature | 
+Create and save custom light fixtures - support for RGB, W, RGBW, RGBWWW | 
+Disable GUI to boost performance | 
+Flip video | 
+IP unicast | 
+set custom DMX addresse | 
 
 
