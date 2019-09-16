@@ -12,4 +12,7 @@ I am also **offering paid support** and modifications to software to suit your n
 ## HOW TO INSTALL
 Simply download folder for your OS from Builds:
 [**Windows64zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/Windows64bit/application.windows64_v23.zip "WindowsBuild_v23")
-Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public.   
+Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public.
+
+## DONATE TO HELP DEVELOP PixelMappingDj FOR FREE
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A4G7WAQR86QEQ&source=url)
