@@ -16,7 +16,7 @@ I am **offering custom paid support** and modifications to software to suit your
 You can also post feature request here on Github but I can not guarantee if and when it will be implemented. On the other hand all **contributions from community are welcomed** and appreciated. If you program additional feature worth publishing do not hesitate to contact me so I can add it in the repository. 
 
 ## HOW TO INSTALL
-Simply download folder for your OS from Builds:
+Simply download folder for your OS from [**Builds**](https://github.com/trackme518/PixelMappingDj/tree/master/BUILDS "builds"):
 
 [**Windows64.7zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/application.windows64.7z "WindowsBuild_v23")
 
