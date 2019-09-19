@@ -75,12 +75,13 @@ int ledStripArtnet(int CurrChannStart, float posXo, float posYo, int stripLength
   int lastChannel = CurrChannStart+img.pixels.length*numOfChannPerPixel;
 
   // for (int i=0; i<img.pixels.length; i++) { //for all pixels <-allows for only 1D manipulation
-  for (int x = 0; x < img.width; x++) { //however for led displays we need to know at what collumn we are so 2d loop is necessary
-    // Loop through every pixel row
-    for (int y = 0; y < img.height; y++) {
+  for (int y = 0; y < img.height; y++) { //however for led displays we need to know at what collumn we are so 2d loop is necessary
+    // Loop through every pixel row      
+      
+    for (int x = 0; x < img.width; x++) {
 
       // Use the formula to find the 1D location
-      int i = x + y * img.width; //this is current pixel index
+      int i = x + y*img.width; //this is current pixel index
 
       if (i < 0 || i >= width*height) // If the pixel is outside the canvas, skip it
         continue;
@@ -91,8 +92,9 @@ int ledStripArtnet(int CurrChannStart, float posXo, float posYo, int stripLength
       b = c&0xFF;
 
       //compute current channel to write to------------------------------------
-      if ((i)*numOfChannPerPixel > ((currUniverse+1)*tresholdPerUniverse)) { 
+      if ((i*numOfChannPerPixel) > ((currUniverse+1)*tresholdPerUniverse)) { 
         currUniverse++; //write to next universe
+        println("add");
       }    
       //max number of universes per subnet is 16
       if (currUniverse<=15) {  //so far I am limiting this to just 1 subnet ie 16 DMX universes = 8192 channels, can be eventually expanded to 16subnets..

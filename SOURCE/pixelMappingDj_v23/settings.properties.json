@@ -13,8 +13,8 @@
     "max": 255,
     "value": 255
   },
-  "/LEDpixelHeight": {"value": 10},
-  "/LEDpixelWidth": {"value": 50},
+  "/LEDpixelHeight": {"value": 5},
+  "/LEDpixelWidth": {"value": 5},
   "/IP4": {"value": 1},
   "/play": {"value": 1},
   "/IP2": {"value": 0},
@@ -41,6 +41,6 @@
   },
   "/flipV": {"value": 0},
   "/LEDchannelStart": {"value": 0},
-  "/matrixWidth": {"value": 1},
-  "/LEDstripPixels": {"value": 6}
+  "/matrixWidth": {"value": 10},
+  "/LEDstripPixels": {"value": 20}
 }
