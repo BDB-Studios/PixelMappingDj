@@ -9,7 +9,7 @@ PixelMappingDJ is **open source** software for Pixel Mapping - **controlling lig
 Similar software (Madrix, Resolume Arena to name a few) usually costs lots of money, it needs particular platform to run on and it is proprietary, which can become a problem when you have custom lights that does not fit in the predefined fixture pattern. 
 
 # Support
-I am **offering custom paid support** and modifications to software to suit your needs if you do not want to do it yourself - send me email at
+I am **offering custom paid support** (please note I can not provide support or reply any question without agreed payment plan first) and modifications to software to suit your needs - send me email at
 
 [![contact](linkme.gif)](http://trackmeifyoucan.com/index_v3.html "email")
 
@@ -20,7 +20,7 @@ Simply download folder for your OS from [**Builds**](https://github.com/trackme5
 
 [**Windows64.7zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/application.windows64.7z "WindowsBuild_v23")
 
-Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public. Other OS builds are coming soon - in the meantime you can [build it on your own](https://github.com/processing/processing/wiki/Export-Info-and-Tips "buildApp").
+Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public. Also it is better to disable your antivirus and firewall - in typical scenario you have to do it anyway to enable artnet communication which typically happen on local network. Other OS builds are coming soon - in the meantime you can [build it on your own](https://github.com/processing/processing/wiki/Export-Info-and-Tips "buildApp").
 
 ## DONATE TO HELP DEVELOP PixelMappingDj FOR FREE
 
