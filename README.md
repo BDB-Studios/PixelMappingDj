@@ -11,7 +11,7 @@ Similar software (Madrix, Resolume Arena to name a few) usually costs lots of mo
 # Support
 I am **offering custom paid support** and modifications to software to suit your needs if you do not want to do it yourself - send me email at
 
-[![contact](http://trackmeifyoucan.com/cont_bigger.gif)](http://trackmeifyoucan.com/index_v3.html "email")
+[![contact](linkme.gif)](http://trackmeifyoucan.com/index_v3.html "email")
 
 You can also post feature request here on Github but I can not guarantee if and when it will be implemented. On the other hand all **contributions from community are welcomed** and appreciated. If you program additional feature worth publishing do not hesitate to contact me so I can add it in the repository. 
 
