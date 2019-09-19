@@ -44,4 +44,7 @@ Flip video |
 IP unicast | 
 set custom DMX addresse | 
 
+## Known Issues
+LED display can have max 512 channels
+
 
