@@ -18,7 +18,7 @@ You can also post feature request here on Github but I can not guarantee if and 
 ## HOW TO INSTALL
 Simply download folder for your OS from Builds:
 
-[**Windows64zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/Windows64bit/application.windows64_v23.zip "WindowsBuild_v23")
+[**Windows64.7zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/application.windows64.7z "WindowsBuild_v23")
 
 Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public. Other OS builds are coming soon - in the meantime you can [build it on your own](https://github.com/processing/processing/wiki/Export-Info-and-Tips "buildApp").
 
