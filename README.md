@@ -20,7 +20,7 @@ Simply download folder for your OS from [**Builds**](https://github.com/trackme5
 
 [**Windows64.7zip**](https://github.com/trackme518/PixelMappingDj/raw/master/BUILDS/application.windows64.7z "WindowsBuild_v23")
 
-Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public. Also it is better to disable your antivirus and firewall - in typical scenario you have to do it anyway to enable artnet communication which typically happen on local network. Other OS builds are coming soon - in the meantime you can [build it on your own](https://github.com/processing/processing/wiki/Export-Info-and-Tips "buildApp").
+Extract the file once downloaded. Go inside the folder, double click "pixelMappingDj.exe". Wait a few seconds for the program to load, when asked enable acces to networks - both private and public. Also it is better to disable your antivirus and firewall - in typical scenario you have to do it anyway to enable artnet communication which typically happen on local network. Other OS builds are coming soon.
 
 ## DONATE TO HELP DEVELOP PixelMappingDj FOR FREE
 
