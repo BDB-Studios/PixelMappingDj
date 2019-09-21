@@ -13,7 +13,7 @@ I am **offering custom paid support** (please note I can not provide support or 
 
 [![contact](linkme.gif)](http://trackmeifyoucan.com/index_v3.html "email")
 
-You can also post feature request here on Github but I can not guarantee if and when it will be implemented. On the other hand all **suggestions from community are welcomed** and appreciated.
+You can also post feature request here on Github but I can not guarantee if and when it will be implemented. On the other hand all **contributions from community are welcomed - do not hesitate to contact me**.
 
 ## HOW TO INSTALL
 Simply download folder for your OS from [**Builds**](https://github.com/trackme518/PixelMappingDj/tree/master/BUILDS "builds"):
