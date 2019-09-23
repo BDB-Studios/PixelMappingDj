@@ -15,6 +15,8 @@ I am **offering custom paid support** (please note I can not provide support or 
 
 You can also post feature request here on Github but I can not guarantee if and when it will be implemented. On the other hand all **contributions from community are welcomed - do not hesitate to contact me**.
 
+**HackaDay article**: https://hackaday.com/2019/09/22/control-lighting-effects-without-programming/
+
 ## HOW TO INSTALL
 Simply download folder for your OS from [**Builds**](https://github.com/trackme518/PixelMappingDj/tree/master/BUILDS "builds"):
 
