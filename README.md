@@ -1,5 +1,5 @@
 # PixelMappingDj
-Control lights with video, no programming needed. Runs on Windows, Linux, iOS and Raspberry Pi! [**MIT Licence**](/LICENCE.txt "licence") (open source, you can use however you like, you just must include original copyright notice) /LICENCE.txt
+Control lights with video, no programming needed. Runs on Windows, Linux, iOS and Raspberry Pi! [**MIT Licence**](/LICENCE.txt "licence") (open source, you can use however you like, you just must include original copyright notice)
 
 Hi,
 let me introduce new software for light designers I have programmed - PixelMappingDj that I would love to see used in your project.  
